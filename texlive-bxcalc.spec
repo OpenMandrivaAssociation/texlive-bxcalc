@@ -1,6 +1,6 @@
 Name:		texlive-bxcalc
 Version:	56431
-Release:	1
+Release:	2
 Summary:	Extend the functionality of the calc package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxcalc

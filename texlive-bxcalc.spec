@@ -3,7 +3,7 @@ Version:	56431
 Release:	2
 Summary:	Extend the functionality of the calc package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxcalc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bxcalc
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxcalc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxcalc.doc.r%{version}.tar.xz
